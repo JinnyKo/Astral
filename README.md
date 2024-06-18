@@ -1,5 +1,7 @@
 # Astral 
+The Atral Project aims to develop a system that provides close connection and management based on detailed user information. This AI system utilizes lightweight versions of Large Language Models (LLM), Speech-to-Text (STT), and Text-to-Speech (TTS) to run on-device, prioritizing security. Additionally, it updates user information in real-time through a database, offering personalized services. While Galaxy smartphones are used as a testing platform, the system is designed to operate across various devices.
 
+이 프로젝트는 사용자의 디테일한 정보들을 기반으로 긴밀한 연결과 관리를 제공하는 시스템을 개발하는 것입니다. 이 AI 시스템은 LLM(대형 언어 모델), STT(음성 인식), TTS(음성 합성)을 온디바이스에서 경량화하여 실행하며, 보안에 중점을 둡니다. 또한, 데이터베이스를 통해 실시간으로 사용자 정보를 업데이트하여 개인 맞춤형 서비스를 제공합니다. 갤럭시 스마트폰을 테스트 플랫폼으로 사용하지만, 다양한 디바이스에서 작동할 수 있도록 설계되었습니다.
 
 ## 준비물 
 1. 갤럭시 S20 스마트폰
