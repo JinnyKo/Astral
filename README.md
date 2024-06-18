@@ -1,5 +1,5 @@
-# GalaxyJarvis
-A personal AI assistant for Galaxy smartphones powered by TensorFlow Lite and on-device processing.
+# Astral 
+
 
 ## 준비물 
 1. 갤럭시 S20 스마트폰
