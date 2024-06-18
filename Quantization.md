@@ -161,6 +161,7 @@ tflite_model = converter.convert()
 with open("model_quantized.tflite", "wb") as f:
     f.write(tflite_model)
 ```
+### LoRa VS 양자화 후 튜닝 
 
 ### LoRa (Low-Rank Adaptation)
 
