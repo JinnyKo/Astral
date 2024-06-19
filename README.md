@@ -17,8 +17,8 @@ Android Studio 설치 및 설정
 
 Android Studio 를 다운로드하여 설치합니다.
 ADB 설치
-
 ADB는 Android Studio와 함께 설치되지만, 필요시 별도로 설치할 수 있습니다.
+
 2. TensorFlow Lite 모델 준비
 경량화된 모델 파일 (.tflite)을 준비합니다. 예를 들어, model.tflite 파일을 준비합니다.
 
